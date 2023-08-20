@@ -9,11 +9,11 @@ Model: Replicate the [PubMed 200k RCT: a Dataset for Sequential Sentence Classif
 (model structure avalaible here https://arxiv.org/pdf/1612.05251.pdf)
 
 ``This is a multimodal model, and its implementation is carried out using TensorFlow-Keras.``
-![Alt text](image.png)
+![Alt text](images/model.png)
 
 
 Dataset: https://www.kaggle.com/datasets/matthewjansen/pubmed-200k-rtc
 
 Input and output:
 
-![image.png](attachment:5591547d-69a4-4690-94b8-c8e2f875ef70.png)
+![Alt text](images/input-output.png)
